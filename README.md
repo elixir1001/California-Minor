@@ -4,7 +4,7 @@
 
 This project is a machine learning model for predicting housing prices in California, deployed as a web application using Streamlit. The model is trained on the California Housing Prices dataset, and users can interact with the application to get predictions for house prices based on various features.
 ## Demo
-To see the application in action, you can visit the live demo at [Demo Link](https://california-housing-prices.streamlit.app/).
+To see the application in action, you can visit the live demo at [Demo Link](https://california-minor-piyush.streamlit.app/).
 ## Features
 - **Machine Learning Model**: A Random Forest Regressor model is trained on the California Housing Prices dataset to predict housing prices.
 - **Streamlit Web Application**: The model is deployed as a user-friendly web application using Streamlit. Users can interact with the app to get predictions.
